@@ -38,6 +38,6 @@ const solution = () => {
 	// a = 2, b = 3
 }
 
-export const solved: boolean = false
+export const solved: boolean = true
 
 export default solution

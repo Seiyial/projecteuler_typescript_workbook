@@ -24,4 +24,4 @@ const getter = (longSeriesOfDigits: string, numAdjacentDigits: number) => {
 
 export default solution
 
-export const solved: boolean = false
+export const solved: boolean = true
