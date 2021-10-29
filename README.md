@@ -1,4 +1,4 @@
-# projecteuler.info solver
+# TypeScript [projecteuler.com](https://projecteuler.com) solver
 
 ## How to try yourself
 
