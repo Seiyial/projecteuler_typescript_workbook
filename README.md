@@ -1,4 +1,4 @@
-# TypeScript [projecteuler.com](https://projecteuler.com) solver
+# TypeScript [projecteuler.com](https://projecteuler.com) Workbook
 
 ## How to try yourself
 
